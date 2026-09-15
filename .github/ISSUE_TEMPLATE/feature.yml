@@ -2,7 +2,7 @@ name: Feature / Task
 description: 新機能の実装や通常の開発タスク
 title: "[Feature] "
 labels:
-  - feature
+  - Feature
 
 body:
   - type: textarea

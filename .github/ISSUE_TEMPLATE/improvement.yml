@@ -2,7 +2,7 @@ name: Improvement / Refactor
 description: 改善・リファクタリング・技術的負債の解消
 title: "[Improve] "
 labels:
-  - improvement
+  - Improvement
 
 body:
   - type: textarea
